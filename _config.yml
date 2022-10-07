@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "en-US"
-title: "Meriel von Stein"
+title: "Christopher Morse"
 title_separator: "-"
-name: &name "Meriel von Stein"
+name: &name "Christopher Morse"
 description: &description "Ph.D. Student at the University of Virginia interested in development, testing, and analysis of autonomous cyberphysical systems."
 url: "https://christheissmorse.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -78,15 +78,15 @@ social:
 
 # Site Author
 author:
-  name: "Meriel von Stein"
+  name: "Christopher Morse"
   avatar: "avatar.png"
-  bio: "Ph.D. Student at the University of Virginia interested in development, testing, and analysis of autonomous cyberphysical systems."
+  bio: "Masters Student at UVA."
   location: "Charlottesville, VA, USA"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=f7Fz5FUAAAAJ&hl=en"
-  email: "meriel@virginia.edu"
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar: "https://scholar.google.com/citations?user=cBMtAjoAAAAJ&hl=en"
+  email: "drb6yv@virginia.edu"
+  researchgate:
   uri:
   bitbucket:
   codepen:
@@ -98,20 +98,20 @@ author:
   google_plus:
   keybase:
   instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory:
   lastfm:
-  linkedin: "meriel-von-stein-b7318060"
-  orcid: "https://orcid.org/0000-0003-4641-4199"
+  linkedin: "chris-morse-435a0b179"
+  orcid:
   pinterest:
   soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
+  stackoverflow:
   steam:
   tumblr:
   twitter:
   vine:
   weibo:
   xing:
-  youtube: "https://www.youtube.com/channel/UCahFYJTDeF8Xg3HhCU-Jgqw"
+  youtube:
   wikipedia:
 
 # Reading Files
