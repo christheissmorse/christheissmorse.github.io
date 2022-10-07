@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Projects and Publications"
     url: /publications/
 
   # - title: "Talks"
   #   url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  - title: "Tools and Artifacts"
+  - title: "Education"
     url: /artifacts/
 
+  - title: "Extracurriculars"
+    url: /teaching/
+
   - title: "CV"
-    url: /files/vonstein_cv.pdf
+    url: /files/morse-cv.pdf
