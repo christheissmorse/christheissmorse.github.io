@@ -10,3 +10,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+# Projects
+
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
