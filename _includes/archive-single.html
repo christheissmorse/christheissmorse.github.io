@@ -41,7 +41,7 @@
     {% endif %}
 
 
-
+    <!--
     {% if post.collection == 'projects'%}
       {% assign authors = '' %}
       {% for author in post.author %}
@@ -58,7 +58,7 @@
       {% elsif post.abstract and site.read_more == 'enabled' %}
         <p class="archive__item-excerpt" itemprop="description">
         {{ post.abstract | truncatewords: 50 | markdownify | remove: '<p>' | remove: '</p>' }}
-        <!-- <br> -->
+
         <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
         </p>
       {% elsif post.date %}
@@ -95,8 +95,8 @@
         </p>
         {% endif %}
       {% endif %}
-      {% endif %}
-
+    {% endif %}
+    -->
 
 
     {% if post.collection == 'publications'%}
