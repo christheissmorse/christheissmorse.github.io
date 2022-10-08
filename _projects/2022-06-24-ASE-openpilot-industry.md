@@ -1,5 +1,5 @@
 ---
-collection: projects
+collection: publications
 downloads:
   paper: /files/publications/vae.pdf
   repo: https://github.com/MissMeriel/openpilot-falsification
