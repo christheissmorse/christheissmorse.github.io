@@ -5,12 +5,14 @@ permalink: /artifacts/
 author_profile: true
 ---
 
-# Research Assistant, LESS lab
+## Research Assistant, LESS lab
 
-# Teaching Assistant, CS 4501
+## Teaching Assistant, CS 4501
 
-# Research Assistant, IRV lab
+## Research Assistant, IRV Lab
 
-# Teaching Assistant, CS 2011
+## REU Research Assistant, NIMBUS Lab
 
-# Teaching Assistant, CS 1133
+## Teaching Assistant, CS 2011
+
+## Teaching Assistant, CS 1133
