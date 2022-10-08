@@ -32,7 +32,7 @@
     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %} -->
 
-    {% if post.collection == 'artifacts' %}
+    {% if post.collection == 'artifacts'%}
       <p class="archive__item-excerpt" itemprop="description">
       {{ post.excerpt | truncatewords: 50 | markdownify | remove: '<p>' | remove: '</p>' }}
       <!-- <br> -->
@@ -40,7 +40,7 @@
       </p>
     {% endif %}
 
-    {% if post.collection == 'publications' %}
+    {% if post.collection == 'publications' || post.collection == 'projects' %}
       {% assign authors = '' %}
       {% for author in post.author %}
         {% if author == site.author.name %}
