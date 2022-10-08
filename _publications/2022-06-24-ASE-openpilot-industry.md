@@ -5,7 +5,7 @@ downloads:
   repo: https://github.com/MissMeriel/openpilot-falsification
 type: inproceedings
 identifier: "vonstein-et-al:ase-industry:2022"
-author: [Christopher Morse]
+author:
 title: "VAE-Guided Testing Framework for OpenPilot’s Vision Model"
 year: 2022
 conference: Automated Software Engineering Industry Track, 2022
