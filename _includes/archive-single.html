@@ -67,8 +67,35 @@
             datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
         </p>
       {% endif %}
-
-
+      {% if post.downloads %}
+      <p class="archive__item-downloads" itemprop="description">
+        <b>Download:</b>
+        {% for download in post.downloads %}
+        {% if download[1] contains '://' %}
+        {% assign url = download[1] %}
+        {% else %}
+        {% assign url = base_path | append: download[1] %}
+        {% endif %}
+        [<a href="{{url}}">{{download[0] | capitalize}}</a>]
+        {% endfor %}
+      </p>
+      {% endif %}
+      {% elsif post.collection == 'artifacts' %}
+        {% if post.links %}
+        <p class="archive__item-links" itemprop="description">
+          <b>Links:</b>
+          {% for link in post.links %}
+          {% if link[1] contains '://' %}
+          {% assign url = link[1] %}
+          {% else %}
+          {% assign url = base_path | append: link[1] %}
+          {% endif %}
+          [<a href="{{url}}">{{link[0] | capitalize}}</a>]
+          {% endfor %}
+        </p>
+        {% endif %}
+      {% endif %}
+      {% endif %}
 
 
 
