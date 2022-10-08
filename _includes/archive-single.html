@@ -40,7 +40,7 @@
       </p>
     {% endif %}
 
-    {% if post.collection == 'projects' %}
+    {% if post.collection == 'projects' || post.collection == 'publications' %}
       {% assign authors = '' %}
       {% for author in post.author %}
         {% if author == site.author.name %}
@@ -67,7 +67,7 @@
       {% endif %}
 
 
-    <!-- {% if post.collection == 'projects' %}
+    <!-- {% if post.collection == 'projects' || post.collection == 'publications' %}
     <p>
       <b>Recommended citation:</b>
       <br />
