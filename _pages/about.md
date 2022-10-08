@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ===
-Hello! I am a Master's student who is passionate about the intersection of machine learning and data analysis, and its role in robot perception systems.
+Hello! I am a Master's student who is passionate about the use of machine learning and data analysis to improve robot perception systems.
 
 
 ## Education
