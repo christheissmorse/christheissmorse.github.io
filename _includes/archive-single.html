@@ -67,12 +67,6 @@
       {% endif %}
 
 
-    <!-- {% if (post.collection == 'projects') | (post.collection == 'publications') %}
-    <p>
-      <b>Recommended citation:</b>
-      <br />
-      {{post.citation}}
-    </p> -->
     {% if post.downloads %}
     <p class="archive__item-downloads" itemprop="description">
       <b>Download:</b>
@@ -85,7 +79,6 @@
       [<a href="{{url}}">{{download[0] | capitalize}}</a>]
       {% endfor %}
     </p>
-    {% endif %}
     {% elsif post.collection == 'artifacts' %}
       {% if post.links %}
       <p class="archive__item-links" itemprop="description">
