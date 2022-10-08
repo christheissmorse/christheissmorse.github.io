@@ -1,11 +1,11 @@
 ---
 collection: publications
 downloads:
-  paper: /files/publications/SuperDeepBillboard_NIER.pdf
-  poster: /files/posters/poster-gradsymposium-2021.pdf
+  paper: /files/publications/swim.pdf
+  repo: https://github.com/xahidbuffon/SUIM
 type: inproceedings
 identifier: "vonstein-et-al:nier:2022"
-author: [Md Jahidul Islam, Chelsey Edge, Yuyang Xiao, Peigen Luo, Muntaqim Mehtaz, Christopher Morse, Sadman Sakib Enan, Junael Sattar]
+author: [Md Jahidul Islam, Chelsey Edge, Yuyang Xiao, Peigen Luo, Muntaqim Mehtaz, Christopher Morse, Sadman Sakib Enan, Junaed Sattar]
 title: "Semantic Segmentation of Underwater Imagery: Dataset and Benchmark"
 year: 2022
 conference: IROS
