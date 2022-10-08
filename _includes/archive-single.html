@@ -40,7 +40,7 @@
       </p>
     {% endif %}
 
-    {% if post.collection == 'publications' || post.collection == 'projects' %}
+    {% if post.collection == 'projects' %}
       {% assign authors = '' %}
       {% for author in post.author %}
         {% if author == site.author.name %}
