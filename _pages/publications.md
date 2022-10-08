@@ -11,9 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-# Projects
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+# Projects
