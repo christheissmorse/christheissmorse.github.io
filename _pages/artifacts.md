@@ -7,6 +7,7 @@ author_profile: true
 
 ## Research Assistant, LESS Laboratory
 * Conducted research on the inference of spatial relations from robot systems
+* Developed a custom framework for the automatic inference of such relations
 * Paper submitted to ICRA 2023
 
 ## Teaching Assistant, UVA Dept. of Computer Science
