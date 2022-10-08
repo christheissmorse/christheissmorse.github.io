@@ -1,7 +1,7 @@
 ---
 collection: publications
 downloads:
-  paper: /files/publications/ASE2022-OpenPilot_industry_track.pdf
+  paper: /files/publications/vae.pdf
   repo: https://github.com/MissMeriel/openpilot-falsification
 type: inproceedings
 identifier: "vonstein-et-al:ase-industry:2022"
