@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ===
-My name is Chris
+Hello! I am a Master's student who is passionate about the intersection of machine learning and data analysis, and its role in robot perception systems.
 
 
 ## Education
@@ -19,7 +19,6 @@ My name is Chris
 Department of Computer Science, School of Engineering and Applied Science  
 University of Virginia, Charlottesville, Virginia  
 **Advisor:** [Sebastian Elbaum](https://www.cs.virginia.edu/~se4ja/)
-
 
 **BA, Computer Science**, 2017 - 2021
 Department of Computer Science and Engineering, College of Liberal Arts
