@@ -25,7 +25,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      <a href="{{ post.access_url }}" rel="permalink">{{ title }}</a>
     </h2>
 
     <!-- {% if post.read_time %}
@@ -40,66 +40,7 @@
       </p>
     {% endif %}
 
-
-    <!--
-    {% if post.collection == 'projects'%}
-      {% assign authors = '' %}
-      {% for author in post.author %}
-        {% if author == site.author.name %}
-          {% assign authors_updated = authors | append: ", <b>" | append: author | append: "</b>" %}
-        {% else %}
-          {% assign authors_updated = authors | append: ", " | append: author %}
-        {% endif %}
-        {% assign authors = authors_updated %}
-      {% endfor %}
-      {{authors | replace_first: ", ", ""}}
-      {% if post.abstract and site.read_more != 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.abstract | markdownify }}</p>
-      {% elsif post.abstract and site.read_more == 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description">
-        {{ post.abstract | truncatewords: 50 | markdownify | remove: '<p>' | remove: '</p>' }}
-
-        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        </p>
-      {% elsif post.date %}
-        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-            {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time
-            datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
-        </p>
-      {% endif %}
-      {% if post.downloads %}
-      <p class="archive__item-downloads" itemprop="description">
-        <b>Download:</b>
-        {% for download in post.downloads %}
-        {% if download[1] contains '://' %}
-        {% assign url = download[1] %}
-        {% else %}
-        {% assign url = base_path | append: download[1] %}
-        {% endif %}
-        [<a href="{{url}}">{{download[0] | capitalize}}</a>]
-        {% endfor %}
-      </p>
-      {% endif %}
-      {% elsif post.collection == 'artifacts' %}
-        {% if post.links %}
-        <p class="archive__item-links" itemprop="description">
-          <b>Links:</b>
-          {% for link in post.links %}
-          {% if link[1] contains '://' %}
-          {% assign url = link[1] %}
-          {% else %}
-          {% assign url = base_path | append: link[1] %}
-          {% endif %}
-          [<a href="{{url}}">{{link[0] | capitalize}}</a>]
-          {% endfor %}
-        </p>
-        {% endif %}
-      {% endif %}
-    {% endif %}
-    -->
-
-
-    {% if post.collection == 'publications'%}
+    {% if post.collection == 'publications' %}
       {% assign authors = '' %}
       {% for author in post.author %}
         {% if author == site.author.name %}
@@ -124,6 +65,8 @@
             datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
         </p>
       {% endif %}
+
+
     <!-- {% if post.collection == 'publications' %}
     <p>
       <b>Recommended citation:</b>
@@ -157,6 +100,7 @@
         {% endfor %}
       </p>
       {% endif %}
+    {% endif %}
     {% endif %}
 
   </article>
