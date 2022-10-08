@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 
-# Projects!
+# Projects
 
 {% for post in site.projects reversed %}
   {% include archive-single.html %}
