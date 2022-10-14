@@ -9,8 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-===
+## Bio
 Hello! I am a Master's student who is passionate about the use of machine learning and data analysis to improve robot perception systems.
 
 
@@ -24,3 +23,10 @@ University of Virginia, Charlottesville, Virginia
 **BA, Computer Science**, 2017 - 2021
 Department of Computer Science and Engineering, College of Liberal Arts
 University of Minnesota - Twin Cities, Minneapolis, Minnesota  
+
+## Service, Awards, and Honors
+
+* Paper Reviewer, IEEE International Conference on Robotics and Automation (ICRA), 2022
+* UROP Research Award Recipient, 2020
+* UMN College of Liberal Arts Dean's List (7 semesters)
+* 2nd Place, University of Nebraska REU Research Symposium (Summer 2019)
