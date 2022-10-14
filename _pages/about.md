@@ -26,7 +26,7 @@ University of Minnesota - Twin Cities, Minneapolis, Minnesota
 
 ## Service, Awards, and Honors
 
-* Paper Reviewer, IEEE International Conference on Robotics and Automation (ICRA), 2022
+* Paper Reviewer, IEEE International Conference on Robotics and Automation (ICRA), 2023
 * UROP Research Award Recipient, 2020
 * UMN College of Liberal Arts Dean's List (7 semesters)
 * 2nd Place, University of Nebraska REU Research Symposium (Summer 2019)
