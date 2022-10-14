@@ -24,6 +24,14 @@ University of Virginia, Charlottesville, Virginia
 Department of Computer Science and Engineering, College of Liberal Arts
 University of Minnesota - Twin Cities, Minneapolis, Minnesota  
 
+## Recent Coursework
+* Machine Learning, UVA Fall 2022 (CS 6XXX)
+* Geometry of Data, UVA Fall 2022 (CS 6XXX)
+* Robustness of Autonomous Systems, UVA Spring 2022 (CS 8501)
+* Autonomous Mobile Robotics, UVA Fall 2021 (CS 6XXX)
+* Computer Vision, UMN Spring 2021 (CS 4XXX)
+
+
 ## Service, Awards, and Honors
 
 * Paper Reviewer, IEEE International Conference on Robotics and Automation (ICRA), 2023
