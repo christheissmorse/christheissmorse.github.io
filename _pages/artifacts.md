@@ -16,7 +16,7 @@ author_profile: true
 * Modified course structure to improve scalability
 * Hosted office hours
 
-## Research Assistant, Interactive Robotics and Vision (IRV) Laboratory (January 2020 - January 2021)
+## Research Assistant, Interactive Robotics and Vision (IRV) Laboratory (December 2019 - December 2020)
 * Developed a streamlined method for paired diver image generation to combat data scarcity.
 * Investigated a method for synthetic image generation for data augmentation.
 * Evaluated object detection models, organized the resulting data, and generated figures.
