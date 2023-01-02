@@ -25,16 +25,16 @@ Department of Computer Science and Engineering, College of Liberal Arts
 University of Minnesota - Twin Cities, Minneapolis, Minnesota  
 
 ## Recent Coursework
-* Machine Learning, UVA Fall 2022 (CS 6XXX)
-* Geometry of Data, UVA Fall 2022 (CS 6XXX)
+* Machine Learning, UVA Fall 2022 (CS 6316)
+* Geometry of Data, UVA Fall 2022 (CS 6501)
 * Robustness of Autonomous Systems, UVA Spring 2022 (CS 8501)
-* Autonomous Mobile Robotics, UVA Fall 2021 (CS 6XXX)
-* Computer Vision, UMN Spring 2021 (CS 4XXX)
+* Autonomous Mobile Robotics, UVA Fall 2021 (SYS 6581)
+* Computer Vision, UMN Spring 2021 (CS 5561)
 
 
 ## Service, Awards, and Honors
 
 * Paper Reviewer, IEEE International Conference on Robotics and Automation (ICRA), 2023
 * UROP Research Award Recipient, 2020
-* UMN College of Liberal Arts Dean's List (7 semesters)
+* UMN College of Liberal Arts Dean's List
 * 2nd Place, University of Nebraska REU Research Symposium (Summer 2019)

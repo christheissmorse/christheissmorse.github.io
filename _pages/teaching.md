@@ -1,10 +1,18 @@
 ---
 layout: archive
-title: "Teaching and Community Service"
+title: "About Me"
 permalink: /teaching/
 author_profile: true
 ---
 
-UVA Computer Science Grad Student Group Mentoring Chair
+## Jazz
+
+Trombone
+
+
+
+## Rock Climbing
+
+Climbing
 
 <img src="{{'/images/ICSE2021-volunteer-Meriel.pdf' | absolute_url}}">
