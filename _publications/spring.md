@@ -3,6 +3,7 @@ collection: publications
 downloads:
   paper: /files/publications/spring.pdf
   repo: https://github.com/less-lab-uva/SpRInG
+  video: https://youtu.be/yQpcv3ej2Mg
 identifier: "spring"
 author: [Christopher Morse, Lu Feng, Matthew Dwyer, Sebastian Elbaum]
 title: "A Framework for the Unsupervised Inference of Relations Between Sensed Object Spatial Distributions and Robot Behaviors"
