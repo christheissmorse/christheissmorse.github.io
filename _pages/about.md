@@ -10,12 +10,11 @@ redirect_from:
 ---
 
 ## Bio
-Hello! I am a Master's student who is passionate about the use of machine learning and data analysis to improve robot perception systems.
-
+Hello! I am a Master's student at the University of Virginia who is passionate about the use of machine learning to improve robot perception systems.
 
 ## Education
 
-**MS, Computer Science**,  2021 - Present  
+**MS, Computer Science**,  2021 - Present (Expected May 2023)
 Department of Computer Science, School of Engineering and Applied Science  
 University of Virginia, Charlottesville, Virginia  
 **Advisor:** [Sebastian Elbaum](https://www.cs.virginia.edu/~se4ja/)
@@ -25,6 +24,7 @@ Department of Computer Science and Engineering, College of Liberal Arts
 University of Minnesota - Twin Cities, Minneapolis, Minnesota  
 
 ## Recent Coursework
+* Digital Signal Processing, UVA Spring 2023 (CS 6501)
 * Machine Learning, UVA Fall 2022 (CS 6316)
 * Geometry of Data, UVA Fall 2022 (CS 6501)
 * Robustness of Autonomous Systems, UVA Spring 2022 (CS 8501)
