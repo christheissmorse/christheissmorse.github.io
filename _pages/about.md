@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 ## Bio
-Hello! I am a Master's student at the University of Virginia who is passionate about the use of machine learning to improve robot perception systems.
+Hello! My name is Chris and I am currently a Master's student at the University of Virginia, with experience in the use of machine learning to improve robot perception systems. I have a passion for picking apart complex concepts and communicating them effectively.
 
 ## Education
 
