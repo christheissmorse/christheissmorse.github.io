@@ -10,8 +10,5 @@ main:
   - title: "Experience"
     url: /artifacts/
 
-  - title: "Extracurriculars"
-    url: /teaching/
-
   - title: "Resume"
-    url: /files/morse-cv.pdf
+    url: /files/ChristopherMorse_Resume.pdf
