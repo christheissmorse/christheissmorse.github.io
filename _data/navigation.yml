@@ -4,11 +4,11 @@ main:
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "Projects & Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Experience"
-    url: /artifacts/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Resume"
     url: /files/ChristopherMorse_Resume.pdf
