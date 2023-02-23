@@ -1,7 +1,6 @@
 ---
 collection: publications
 downloads:
-  paper: /files/publications/spring.pdf
   repo: https://github.com/less-lab-uva/SpRInG
   video: https://youtu.be/yQpcv3ej2Mg
 identifier: "spring"
