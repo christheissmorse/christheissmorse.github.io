@@ -14,7 +14,7 @@ Hello! My name is Chris and I am currently a Master's student at the University 
 
 ## Education
 
-**MS, Computer Science**,  2021 - Present (Expected May 2023)
+**MS, Computer Science**,  2021 - 2023
 Department of Computer Science, School of Engineering and Applied Science  
 University of Virginia, Charlottesville, Virginia  
 **Advisor:** [Sebastian Elbaum](https://www.cs.virginia.edu/~se4ja/)
