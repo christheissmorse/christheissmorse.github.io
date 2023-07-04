@@ -5,7 +5,7 @@ permalink: /artifacts/
 author_profile: true
 ---
 
-## Guest Lecturer and Teaching Assistant, UVA Dept. of Computer Science
+## Teaching Assistant, UVA Dept. of Computer Science
 ### *CS 1010, Introduction to Information Technology (January 2023 - Present)*
 ### *CS 4501, Robotics for Software Engineers (August - December 2022)*
 

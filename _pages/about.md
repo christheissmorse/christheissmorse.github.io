@@ -10,7 +10,9 @@ redirect_from:
 ---
 
 ## Bio
-Hello! My name is Chris and I recently graduated from the University of Virginia with an MS in Computer Science. I have experience in the use of machine learning to improve robot perception systems, and a passion for picking apart complex topics to communicate them effectively.
+Experienced researcher, programmer, presenter, and dedicated learner with a demonstrated history of publications and awards. Skilled in Software Development, Robot Perception, and Machine Learning. Passionate science communicator and advocate for accessibility within the scientific community. Resourceful problem solver with an M.S. in Computer Science from the University of Virginia.
+
+In my free time, I enjoy rock climbing and jazz trombone.
 
 ## Education
 
