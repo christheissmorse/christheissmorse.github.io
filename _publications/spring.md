@@ -1,8 +1,9 @@
 ---
 collection: publications
 downloads:
+  paper: /files/publications/icra2023.pdf
   repo: https://github.com/less-lab-uva/SpRInG
-  video: https://youtu.be/yQpcv3ej2Mg
+  video: https://youtu.be/LRyskkd0_cw
 type: inproceedings
 identifier: "spring"
 author: [Christopher Morse, Lu Feng, Matthew Dwyer, Sebastian Elbaum]

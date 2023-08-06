@@ -16,12 +16,12 @@ In my free time, I enjoy rock climbing and jazz trombone.
 
 ## Education
 
-**MS, Computer Science**,  2021 - 2023
+**M.S., Computer Science**,  2021 - 2023
 Department of Computer Science, School of Engineering and Applied Science  
 University of Virginia, Charlottesville, Virginia  
 **Advisor:** [Sebastian Elbaum](https://www.cs.virginia.edu/~se4ja/)
 
-**BA, Computer Science**, 2017 - 2021
+**B.A., Computer Science**, 2017 - 2021
 Department of Computer Science and Engineering, College of Liberal Arts
 University of Minnesota - Twin Cities, Minneapolis, Minnesota  
 
