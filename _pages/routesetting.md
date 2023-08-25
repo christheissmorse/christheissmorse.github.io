@@ -1,11 +1,9 @@
 ---
 layout: archive
 title: "Routesetting"
-permalink: /teaching/
+permalink: /routesetting/
 author_profile: true
 ---
-
-## Routesetting
 
 ### Black V4/5: Rocky Top Climbing, August 2023 (Charlottesville, VA)
 <img src="{{'/images/route1.png' | absolute_url}}">
