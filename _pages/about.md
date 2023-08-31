@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-## Bio
+## About Me
 Experienced researcher, programmer, presenter, and dedicated learner with a demonstrated history of publications and awards. Skilled in Software Development, Robot Perception, and Machine Learning. Passionate science communicator and advocate for accessibility within the scientific community. Resourceful problem solver with an M.S. in Computer Science from the University of Virginia.
 
-In my free time, I enjoy rock climbing and jazz trombone.
+In my free time, I enjoy rock climbing, baking, and playing jazz trombone.
 
 ## Education
 
